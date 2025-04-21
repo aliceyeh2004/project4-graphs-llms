@@ -1,0 +1,26 @@
+Source,Target,weight
+Iron Man,Captain America,3
+Iron Man,Thor,4
+Iron Man,Hulk,2
+Captain America,Black Widow,5
+Captain America,Falcon,3
+Black Widow,Hawkeye,4
+Black Panther,Captain America,2
+Black Panther,Spider-Man,3
+Spider-Man,Iron Man,4
+Doctor Strange,Iron Man,2
+Doctor Strange,Spider-Man,3
+Thor,Hulk,2
+Thor,Loki,3
+Loki,Doctor Strange,1
+Hulk,Black Widow,2
+Falcon,War Machine,2
+War Machine,Iron Man,3
+Spider-Man,Black Widow,1
+Black Panther,Falcon,2
+Captain Marvel,Iron Man,2
+Captain Marvel,Thor,2
+Doctor Strange,Thor,3
+Spider-Man,Captain America,2
+Hulk,Captain America,2
+Black Widow,Captain Marvel,2
